@@ -9,7 +9,6 @@ Brief:
 
 # Summary
 
-asdjhasjdhgsahsagh
 # 1st Deliverable
 
 
