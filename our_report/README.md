@@ -5,7 +5,7 @@
 ### GitHub Personal Profile: [Christina](https://github.com/dpsd16047) , [Kyriakos](https://github.com/dpsd16121) , [Odysseas](https://github.com/dpsd16015)
 
 # Introduction
-Brief: 
+Designing/Programming a system, which will interact with the user via sound and music. This specific arduino we are going to develop, will be attached on the user's hat and the user will interact with it. 
 
 # Summary
 
