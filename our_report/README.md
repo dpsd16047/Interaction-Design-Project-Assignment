@@ -27,11 +27,11 @@ We are planning to use: Tinkercad (for prototyping) and LilyPad Sewable Electron
 
 
 # Sources
-[Musical chairs](https://harmonylodgemusic.com/how-to-play-an-exciting-clever-twist-on-the-classic-musical-chairs-game/)
-[App for musical chairs](https://play.google.com/store/apps/details?id=fi.miniminn.android.musicalchairsplayer&hl=en_US&gl=US)
-[Musical Chair control app](https://apps.apple.com/us/app/musical-chair-game-control/id1199948130)
-[Arduino Lilypad](https://www.sparkfun.com/products/13927)
-[Hybrid play](https://duino4projects.com/hybrid-play-turn-playground-video-game/)
-[Cartman's Escape Room](https://escapetheroom.com/south-park/)
+[Musical chairs](https://harmonylodgemusic.com/how-to-play-an-exciting-clever-twist-on-the-classic-musical-chairs-game/)  
+[App for musical chairs](https://play.google.com/store/apps/details?id=fi.miniminn.android.musicalchairsplayer&hl=en_US&gl=US)  
+[Musical Chair control app](https://apps.apple.com/us/app/musical-chair-game-control/id1199948130)  
+[Arduino Lilypad](https://www.sparkfun.com/products/13927)  
+[Hybrid play](https://duino4projects.com/hybrid-play-turn-playground-video-game/)  
+[Cartman's Escape Room](https://escapetheroom.com/south-park/)  
 
 
