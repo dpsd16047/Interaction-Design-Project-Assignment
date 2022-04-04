@@ -1,8 +1,8 @@
 # Lesson: Interaction Design
 
-### First and Last Name: xxx (all members of the team)
-### University Registration Number: dpsdxxxxx (all members of the team)
-### GitHub Personal Profile: xxx
+### First and Last Name: Christina Kontzinou, Kyriakos Chatzichristos, Odysseas Voutsaras
+### University Registration Number: dpsd16047, dpsd16121, dpsd16015
+### GitHub Personal Profile: [Christina](https://github.com/dpsd16047) , [Kyriakos](https://github.com/dpsd16121) , [Odysseas](https://github.com/dpsd16015)
 
 # Introduction
 
