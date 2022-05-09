@@ -18,7 +18,8 @@ Up to now, we have the Brief of the project and some research based on PACT.
 We are planning to use: Tinkercad (for prototyping) and LilyPad Sewable Electronics Kit. 
 
 # 2nd Deliverable
-
+The main part will be the Arduino UNO Rev3 SMD which will be connected to a RIBBED BEANIE HAT from Acne Studios while the circulation of power will be through the Electronics Component Starter Kit With Led Resistors Capacitor For Arduino Uno  from fruugo. The system will also contain of a digital push button KS0029 and PCB BUZZER. The particular Arduino is based on ATmega328P and it consists of 14 digital entries 6 analogic inputs and 1 usb port for connection with the computer. The starter kit contains everything basic for the circulation and as well as led lightbulbs. The PCB buzzer is a standar arduino buzzer which we will use for the sole purpose of producing sound. Basically the cables are going to connect to the liguhts and to the buzzer as well as the button so that when it is pushed it will produce 
+a number of sounds in order to create a song as well as activate the led lights in a certain order and stop after a while.
 
 # 3rd Deliverable 
 
