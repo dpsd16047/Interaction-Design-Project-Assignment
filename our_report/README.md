@@ -17,9 +17,24 @@ Up to now, we have the Brief of the project and some research based on PACT.
 **Technologies:** *Hybrid play* (Arduino used in playgrounds) is a device for parents and their children; they are able to experience and create new virtual adventures, and play them in playgrounds and parks; where the playground becomes a control interface. Hybrid Play promotes outdoor physical activity, verbal communication, and teamwork. An other diachronic game is *Hide and Seek*, which nowadays can be played online with random team-players or opponents. A very good example of that, is one Escape Room which was built during the quarantine, "Cartman's Escape Room".
 We are planning to use: Tinkercad (for prototyping) and LilyPad Sewable Electronics Kit. 
 
-# 2nd Deliverable
-The main part will be the Arduino UNO Rev3 SMD which will be connected to a RIBBED BEANIE HAT from Acne Studios while the circulation of power will be through the Electronics Component Starter Kit With Led Resistors Capacitor For Arduino Uno  from fruugo. The system will also contain of a digital push button KS0029 and PCB BUZZER. The particular Arduino is based on ATmega328P and it consists of 14 digital entries 6 analogic inputs and 1 usb port for connection with the computer. The starter kit contains everything basic for the circulation and as well as led lightbulbs. The PCB buzzer is a standar arduino buzzer which we will use for the sole purpose of producing sound. Basically the cables are going to connect to the liguhts and to the buzzer as well as the button so that when it is pushed it will produce 
+# 2nd Deliverable  
+**Information Architecture**
+**Users:** children playing musical chairs from three to ten years old
+**Place:** backyards - parks - parties
+**Constraints:** non waterproof-needs more than 4 people in order to play-playing only one song-battery.
+**Users' needs:** The purpose of this project is to design and prototype interactive tangible objects.
+**Content:** The concept is that the kids can play musical chairs without someone handling the music and that everyone will always be playing. When the button is pushed music starts playing and the led lights light up for some seconds and when they both stop the kids have to be sit on a chair. The person who is not sitting  on a chair gets 1 point reducted from him, the person with the less points wins. When a person loses a point the hat is given to him so that he has a fair advantage over the other kids.
+**User goals** No one gets left out - parents are not involved at all - accessible to deaf kids.
+**Specifications:** wearable-affordable parts(Arduino UNO Rev3 SMD,Electronics Component Starter Kit,KS0029 Button,PCB BUZZER,ACNE RIBBED BEANIE HAT)-playing music through buzzer-connection with the arduino through wires-leds lighting up when button pushed-arduino sewed on the beanie hat-deaf friendly(led lights).
+
+**User Interaction**
+As mentioned above, the rules of this musical chairs change a little bit. The basic change is that no chairs are being moved out; meaning no children are left out during the whole gameplay. At the beggining of the game the children decide which one gets to wear the hat with the arduino (e.g. based on their age). While the melody plays, the LED lights are also on; when the music stops and the LEDs switch off, all the children try to sit on a chair. The one who doesn't get to sit on chair, on the next round wears the hat. In that way, the child wearing the hat has the lead of the game, because they hear the music stop more instantly than the other children. Another feature that makes the game better this way, is that any deaf children can play the game due to the LED indicators. 
+
+**Interface design**
+The main part will be the Arduino UNO Rev3 SMD which will be connected to a RIBBED BEANIE HAT from Acne Studios while the circulation of power will be through the Electronics Component Starter Kit With Led Resistors Capacitor For Arduino Uno  from fruugo. The system will also contain of a digital push button KS0029 and PCB BUZZER. The particular Arduino is based on ATmega328P and it consists of 14 digital entries 6 analogic inputs and 1 usb port for connection with the computer. The starter kit contains everything basic for the circulation and as well as led lightbulbs. The PCB buzzer is a standar arduino buzzer which we will use for the sole purpose of producing sound. Basically the cables are going to connect to the lights and to the buzzer as well as the button so that when it is pushed it will produce 
 a number of sounds in order to create a song as well as activate the led lights in a certain order and stop after a while.
+
+
 
 # 3rd Deliverable 
 
