@@ -8,7 +8,7 @@
 **Brief:** Our team intends to design and program a system, which will interact with the user via sound and music; using *Arduino*. This specific Arduino we are going to develop, will be attached on the user's hat; or any other cloth accessory, while the device itself being protected. 
 
 # Summary
-We
+
 
 # 1st Deliverable  
   
@@ -25,7 +25,7 @@ We are planning to use: Tinkercad (for prototyping) and LilyPad Sewable Electron
 **Place:** Backyards, parks, parties (at houses, kindergartens, etc).  
 **Constraints:** Non waterproof-needs more than 4 people in order to play-playing only one song-battery.  
 **Users' needs:** The purpose of this project is to design and prototype interactive tangible objects.  
-**Content:** The concept is that the kids can play musical chairs without someone handling the music and that everyone will always be playing. When the button is pushed music starts playing and the led lights light up for some seconds and when they both stop the kids have to be sit on a chair. The person who is not sitting  on a chair gets 1 point reducted from him, the person with the less points wins. When a person loses a point the hat is given to him so that he has a fair advantage over the other kids.  
+**Content:** The concept is that the kids can play musical chairs without someone handling the music and that everyone will always be playing. When the button is pushed music starts playing and the led lights light up for some seconds and when they both stop the kids have to be sit on a chair. The person who is not sitting  on a chair gets 1 point reducted from them, the person with the less points wins. When a person loses a point the hat is given to them so that they have a fair advantage over the other kids.  
 **User goals** No one gets left out - parents are not involved at all - accessible to deaf kids.  
 **Specifications:** wearable-affordable parts(Arduino UNO Rev3 SMD,Electronics Component Starter Kit,KS0029 Button,PCB BUZZER,ACNE RIBBED BEANIE HAT)-playing music through buzzer-connection with the arduino through wires-leds lighting up when button pushed-arduino sewed on the beanie hat-deaf friendly(led lights).  
 
@@ -39,10 +39,24 @@ a number of sounds in order to create a song as well as activate the led lights 
 # 3rd Deliverable  
   
 **Persona**  
-![boi](https://user-images.githubusercontent.com/100679305/172496385-b3ccdefc-fdc6-45b8-b7ab-fc99a63103f3.png)
-Name: Antonis                    
-Age: 7 years old  
-Capacity: Student of 2nd Grade  
+![boi](https://user-images.githubusercontent.com/100679305/172496385-b3ccdefc-fdc6-45b8-b7ab-fc99a63103f3.png)  
+Name: Antonis - Age: 7 years old - Capacity: Student of 2nd Grade  
+  
+**Scenario of Use**  
+Antonis goes to school and he had his birthday a few days earlier. His parents made invitations for every child in his class to invite them at the party, which took place in their home. The parents were in the kitchen and balcony, hanging out together and the children were mostly in the living room, so that they have space to play. They decided to play Musical Chairs with Antonis' Smart Hat. As he was the birthday boy, he wore the hat first and then they all started running around as soon as the music started. When the music stopped they all tried to sit down, but a girl who was slower than the other children, didn't make it. So, for the next round she wore the Smart Hat and now, she had the advantage. They went on playing the game for a long time, without any injuries or supervision from their parents, because in this case it wasn't necessary. So, both the children and the parents had a very nice time at Antonis' birthday party.  
+  
+**Storyboard**  
+
+  
+  
+**Persona**  
+![gerl](https://user-images.githubusercontent.com/100679305/172498228-62c99a46-fce7-424a-a3c4-f5b62acd89d5.png)  
+Name: Maria - Age: 9 years old - Capacity: Student of 4th Grade  
+  
+**Scenario of Use**  
+Maria goes to a special school for children with disabilities. She is a deaf child and the class she is in, has other children who are like her. The school she goes to, is a usual school that has both children with and without disabilities. The principal thought that this would be a good way for every children to interact and learn from one another. With that in mind; from time to time they organize some activities for all the children, so that they are all brought together and both of them realize that they are not so different afterall. The teacher for that purpose, decided to get the Smart Hat for the children, in order that all of them could play the Musical Chairs together. In that case, the children who were deaf could see the LEDs turn off if another child wore the hat and if a deaf one wore it; even if they can't hear the music, they feel the vibrations so intensively, that it feels like they actually hear everything. It so happened that Maria wore the Hat in the first round. She did feel the vibrations so fast that she was able to sit down on a chair from the first ones. Then another deaf child wore the Hat and Maria once again sat down as fast as she could, because she quickly saw the LEDs turn off and acted on right away. At the end of the game, she actually was in the second place; depending on the points she collected. She and her classmates were all very proud of her.  
+  
+**Storyboard**  
 
 
 # Conclusions
