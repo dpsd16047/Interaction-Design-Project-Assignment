@@ -39,7 +39,8 @@ a number of sounds in order to create a song as well as activate the led lights 
 # 3rd Deliverable  
   
 **Persona**  
-Name: Antonis                    ![boi](https://user-images.githubusercontent.com/100679305/172496016-c5fc89a6-5bc1-46a1-afe7-0eddaf192db8.jpg)
+![boi](https://user-images.githubusercontent.com/100679305/172496385-b3ccdefc-fdc6-45b8-b7ab-fc99a63103f3.png)
+Name: Antonis                    
 Age: 7 years old  
 Capacity: Student of 2nd Grade  
 
