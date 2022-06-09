@@ -38,25 +38,25 @@ a number of sounds in order to create a song as well as activate the led lights 
 
 # 3rd Deliverable  
   
-**Persona**  
+**Persona #1**  
 ![boi](https://user-images.githubusercontent.com/100679305/172496385-b3ccdefc-fdc6-45b8-b7ab-fc99a63103f3.png)  
 Name: Antonis - Age: 7 years old - Capacity: Student of 2nd Grade  
   
-**Scenario of Use**  
-Antonis goes to school and he had his birthday a few days earlier. His parents made invitations for every child in his class to invite them at the party, which took place in their home. The parents were in the kitchen and balcony, hanging out together and the children were mostly in the living room, so that they have space to play. They decided to play Musical Chairs with Antonis' Smart Hat. As he was the birthday boy, he wore the hat first and then they all started running around as soon as the music started. When the music stopped they all tried to sit down, but a girl who was slower than the other children, didn't make it. So, for the next round she wore the Smart Hat and now, she had the advantage. They went on playing the game for a long time, without any injuries or supervision from their parents, because in this case it wasn't necessary. So, both the children and the parents had a very nice time at Antonis' birthday party.  
+**Scenario of Use #1**  
+Antonis goes to school and he had his birthday a few days earlier. His parents made invitations for every child in his class to invite them at the party, which took place in their home. The parents were in the kitchen and balcony, hanging out together and the children were mostly in the living room, so that they have space to play. They decided to play Musical Chairs with Antonis' Smart Hat. As he was the birthday boy, he wore the hat first and then they all started running around as soon as the music started. When he stopped the music, they all tried to sit down, but a girl who was slower than the other children, didn't make it. So, for the next round she wore the Smart Hat and now, she had the advantage not only beacause she could hear the music better than the others; but also because she would be the one to press the button on the Hat to stop the music and make everybody sit down. They went on playing the game for a long time, without any injuries or supervision from their parents, because in this case it wasn't necessary. So, both the children and the parents had a very nice time at Antonis' birthday party.  
   
-**Storyboard**  
+**Storyboard #1**  
 
   
   
-**Persona**  
+**Persona #2**  
 ![gerl](https://user-images.githubusercontent.com/100679305/172498228-62c99a46-fce7-424a-a3c4-f5b62acd89d5.png)  
 Name: Maria - Age: 9 years old - Capacity: Student of 4th Grade  
   
-**Scenario of Use**  
+**Scenario of Use #2**  
 Maria goes to a special school for children with disabilities. She is a deaf child and the class she is in, has other children who are like her. The school she goes to, is a usual school that has both children with and without disabilities. The principal thought that this would be a good way for every children to interact and learn from one another. With that in mind; from time to time they organize some activities for all the children, so that they are all brought together and both of them realize that they are not so different afterall. The teacher for that purpose, decided to get the Smart Hat for the children, in order that all of them could play the Musical Chairs together. In that case, the children who were deaf could see the LEDs turn off if another child wore the hat and if a deaf one wore it; even if they can't hear the music, they feel the vibrations so intensively, that it feels like they actually hear everything. It so happened that Maria wore the Hat in the first round. She did feel the vibrations so fast that she was able to sit down on a chair from the first ones. Then another deaf child wore the Hat and Maria once again sat down as fast as she could, because she quickly saw the LEDs turn off and acted on right away. At the end of the game, she actually was in the second place; depending on the points she collected. She and her classmates were all very proud of her.  
   
-**Storyboard**  
+**Storyboard #2**  
 
 
 # Conclusions
