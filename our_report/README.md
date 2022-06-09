@@ -75,5 +75,5 @@ Here is the [video](https://user-images.githubusercontent.com/100679305/17293385
 [Electronics Component Starter Kit](https://www.fruugo.gr/electronics-component-starter-kit-with-led-resistors-capacitor-for-arduino-uno/p-74465868-149474804?language=en&ac=croud&gclid=CjwKCAjw9-KTBhBcEiwAr19ig1-Ck-xyhMK3uhsw-gpvo4KywpxDWbMWCEN6XVsixUUBo6vp-2-AghoCIqUQAvD_BwE)  
 [Digital Push Button](https://www.trelokalathi.gr/index.php?route=product/product&product_id=59775&gclid=CjwKCAjw9-KTBhBcEiwAr19ig1dztj4XadeZdEo2cAfGH6k8NQ7AsgFM9mbcz0P37noUlVx0-1cfQRoC18UQAvD_BwE)  
 [Arduino UNO](https://eduk8.gr/product/arduino-uno-rev3/?dTribesID=be416045978f1062e07cc3bc5b84ff5d%7Cadtribes%7C9310&utm_source=Google%20Shopping&utm_campaign=Edu%20GShop&utm_medium=cpc&utm_term=9310&gclid=CjwKCAjw9-KTBhBcEiwAr19ig0XrWYNM5UdXqfYKJd97_HUOfFQnxLOgP-jfrfKUHY-Naddt1d11HRoCZF0QAvD_BwE)  
- [Arduino audio player](https://create.arduino.cc/projecthub/muhammed-shameel-k-v/how-to-play-music-with-a-buzzer-and-arduino-b9a25d)
+ [Arduino audio player](https://create.arduino.cc/projecthub/muhammed-shameel-k-v/how-to-play-music-with-a-buzzer-and-arduino-b9a25d)  
  [Music on a buzzer](https://create.arduino.cc/projecthub/stannano/play-music-on-a-buzzer-19fd77)
