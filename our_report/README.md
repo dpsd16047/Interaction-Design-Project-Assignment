@@ -57,7 +57,8 @@ Name: Maria - Age: 9 years old - Capacity: Student of 4th Grade
 Maria goes to a special school for children with disabilities. She is a deaf child and the class she is in, has other children who are like her. The school she goes to, is a usual school that has both children with and without disabilities. The principal thought that this would be a good way for every children to interact and learn from one another. With that in mind; from time to time they organize some activities for all the children, so that they are all brought together and both of them realize that they are not so different afterall. The teacher for that purpose, decided to get the Smart Hat for the children, in order that all of them could play the Musical Chairs together. In that case, the children who were deaf could see the LEDs turn off if another child wore the hat and if a deaf one wore it; even if they can't hear the music, they feel the vibrations so intensively, that it feels like they actually hear everything. It so happened that Maria wore the Hat in the first round. She did feel the vibrations so fast that she was able to sit down on a chair from the first ones. Then another deaf child wore the Hat and Maria once again sat down as fast as she could, because she quickly saw the LEDs turn off and acted on right away. At the end of the game, she actually was in the second place; depending on the points she collected. She and her classmates were all very proud of her.  
   
 **Storyboard #2**
-Here is the [video](https://user-images.githubusercontent.com/100679305/172933851-3d113d45-85be-4eda-b7f7-c7a5847bf21f.mp4) of the prototype and [this](https://github.com/dpsd16047/Interaction-Design-Project-Assignment/files/8873558/arduino.txt) is the complete raw code that was used
+Here is the [video](https://user-images.githubusercontent.com/100679305/172933851-3d113d45-85be-4eda-b7f7-c7a5847bf21f.mp4) of the prototype and [this]([arduino.txt](https://github.com/dpsd16047/Interaction-Design-Project-Assignment/files/8873558/arduino.txt))
+ is the complete raw code that was used
 
 
 # Conclusions
@@ -75,4 +76,5 @@ Here is the [video](https://user-images.githubusercontent.com/100679305/17293385
 [Electronics Component Starter Kit](https://www.fruugo.gr/electronics-component-starter-kit-with-led-resistors-capacitor-for-arduino-uno/p-74465868-149474804?language=en&ac=croud&gclid=CjwKCAjw9-KTBhBcEiwAr19ig1-Ck-xyhMK3uhsw-gpvo4KywpxDWbMWCEN6XVsixUUBo6vp-2-AghoCIqUQAvD_BwE)  
 [Digital Push Button](https://www.trelokalathi.gr/index.php?route=product/product&product_id=59775&gclid=CjwKCAjw9-KTBhBcEiwAr19ig1dztj4XadeZdEo2cAfGH6k8NQ7AsgFM9mbcz0P37noUlVx0-1cfQRoC18UQAvD_BwE)  
 [Arduino UNO](https://eduk8.gr/product/arduino-uno-rev3/?dTribesID=be416045978f1062e07cc3bc5b84ff5d%7Cadtribes%7C9310&utm_source=Google%20Shopping&utm_campaign=Edu%20GShop&utm_medium=cpc&utm_term=9310&gclid=CjwKCAjw9-KTBhBcEiwAr19ig0XrWYNM5UdXqfYKJd97_HUOfFQnxLOgP-jfrfKUHY-Naddt1d11HRoCZF0QAvD_BwE)  
-
+ [Arduino audio player](https://create.arduino.cc/projecthub/muhammed-shameel-k-v/how-to-play-music-with-a-buzzer-and-arduino-b9a25d)
+ [Music on a buzzer](https://create.arduino.cc/projecthub/stannano/play-music-on-a-buzzer-19fd77)
