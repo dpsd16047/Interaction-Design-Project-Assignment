@@ -56,7 +56,11 @@ Name: Maria - Age: 9 years old - Capacity: Student of 4th Grade
 **Scenario of Use #2**  
 Maria goes to a special school for children with disabilities. She is a deaf child and the class she is in, has other children who are like her. The school she goes to, is a usual school that has both children with and without disabilities. The principal thought that this would be a good way for every children to interact and learn from one another. With that in mind; from time to time they organize some activities for all the children, so that they are all brought together and both of them realize that they are not so different afterall. The teacher for that purpose, decided to get the Smart Hat for the children, in order that all of them could play the Musical Chairs together. In that case, the children who were deaf could see the LEDs turn off if another child wore the hat and if a deaf one wore it; even if they can't hear the music, they feel the vibrations so intensively, that it feels like they actually hear everything. It so happened that Maria wore the Hat in the first round. She did feel the vibrations so fast that she was able to sit down on a chair from the first ones. Then another deaf child wore the Hat and Maria once again sat down as fast as she could, because she quickly saw the LEDs turn off and acted on right away. At the end of the game, she actually was in the second place; depending on the points she collected. She and her classmates were all very proud of her.  
   
-**Storyboard #2**  
+**Storyboard #2**
+Here is the [video]https://user-images.githubusercontent.com/100679305/172933851-3d113d45-85be-4eda-b7f7-c7a5847bf21f.mp4
+
+
+of the prototype 
 
 
 # Conclusions
